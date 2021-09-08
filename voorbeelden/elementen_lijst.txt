@@ -1,0 +1,49 @@
+Amazon:
+- Logo
+- Een doorgaan knop
+- Een veld waarin je je email of telefoonnummer moet invullen.
+- Heel groot boven email veld staat inloggen.
+- onderaan staat een knop waarbij je een account kunt aanmaken als je nog geen account hebt.
+- wanneer je op algemene voorwaarden drukt, wordt je doorverwezen naar een pagina 
+met de algemene voorwaarden van de website
+- wanneer je niet weet hoe je verder moet of hoe je moet inloggen, kun je op "Hulp nodig drukken"
+- ook staan er onder de doorgaan knop alle dingen die een website beschreven moet hebben.
+
+Facebook:
+- Logo
+- Email en telefoonnummer veld
+- wachtwoord veld
+- aanmeld knop
+- wachtwoord vergeten knop
+- nieuw account maken knop voor als je nog geen account hebt
+- onder aan de website een kun je alle voorwaarden vinden
+
+
+Netflix:
+- Logo
+- Email en telefoonnummer veld
+- wachtwoord veld
+- inlog knop
+- je kunt inloggen met facebook
+- hulp nodig knop
+- registreer knop voor als je nog geen account hebt
+- voorwaarden staan onderaan
+- taal kun je veranderen
+
+Twitch:
+- logo
+- gebruikersnaam veld
+- wachtwoord veld
+- als je op problemen met inloggen klikt, krijg je allemaal opties hoe je deze problemen kunt oplossen.
+- inlog knop.
+- bovenin kun je registreren
+- ook kun je inloggen
+- als je in het wachtwoord veld op het oogje klikt, dan krijg je te zien wat je typt.
+
+Youtube:
+- Logo
+- Email en telefoonnummer veld
+- email vergeten knop
+- account maken knop
+- 'volgende' knop dan wordt je verwezen naar de volgende pagina waar je je wachtwoord moet invullen.
+- voorwaarden onderin
